@@ -7,6 +7,5 @@
 <body>
 Email:<input type="text" placeholder="Enter your name"><br/><br/>
 Password:<input type="password" placeholder="Enter your email">
-<input type="button" value="Submit">
 </body>
 </html>
